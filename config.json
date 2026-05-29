@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerptringify",
+        "uuid": 1284136,
+        "checksum": "bxivrp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
